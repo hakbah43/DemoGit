@@ -284,6 +284,7 @@
 				368E26211CC3FB11007733EE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
